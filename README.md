@@ -2,6 +2,7 @@ Tabuleiro de xadrez ainda em desenvolvimento feito em C.
 
 ```
 gcc xadrez.c -o xadrez
+./xadrez
 ```
 
 Você deve digitar seus lances utilizando notação algébrica.
